@@ -33,6 +33,7 @@ yarn-error.log
 *.tmp
 *.suo
 *.vsidx
+slnx.sqlite
 
 # Miscellaneous
 /.angular/cache
